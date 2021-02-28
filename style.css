@@ -1,0 +1,30 @@
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    li {
+        display: inline;
+    }
+    #google {
+        display: block;
+        width: 300px;
+        margin: 250px auto auto auto;    
+    }
+    .search-form {
+        display: block;
+        width: 550px;
+        height: 30px;
+        margin: 20px auto auto auto;
+    }
+    .button1 {
+        display: block;
+        margin: 15px 500px auto auto;
+        width: 120px;
+    }
+    .button2 {
+        display: block;
+        margin: -21px 320px auto auto;
+        width: 120px;
+    }
